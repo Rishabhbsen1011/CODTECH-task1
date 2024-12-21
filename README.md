@@ -10,6 +10,9 @@ duration:december to january
 
 The project demonstrates a simple Arduino-based LED blinking circuit using the ATmega microcontroller. Here’s an overview of the functionality:
 
+![Screenshot 2024-12-21 215445](https://github.com/user-attachments/assets/021e7c6f-3c69-4e7a-84a0-3eacad9daf9d)
+
+
 **Project Objective:**
 The goal of this project is to alternately blink two LEDs connected to pins 6 and 7 of the Arduino board, with each LED staying on for 1.5 seconds (1500 milliseconds) before switching.
 
