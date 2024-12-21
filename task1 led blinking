@@ -1,0 +1,15 @@
+//code for the led blinking using arduino Atmega 
+void setup() {
+  pinMode(6, OUTPUT);//set pin 6 led as output
+  pinMode(7, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(6, HIGH);//set logic level to high on pin 6 to on
+  digitalWrite(7, LOW);
+   delay(1500);
+  digitalWrite(6, LOW);//set logic level to low on pin 6 to off
+  digitalWrite(7, HIGH);
+  delay(1500);
+  
+}
