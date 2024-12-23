@@ -1,4 +1,4 @@
-//code for the led blinking using arduino Atmega 
+//code for the led blinking using arduino Atmega on wokwi software 
 void setup() {
   pinMode(6, OUTPUT);//set pin 6 led as output
   pinMode(7, OUTPUT);
