@@ -8,6 +8,8 @@ Domain:embedded system
 
 duration:december to january
 
+mentor Neela santhosh kumar
+
 The project demonstrates a simple Arduino-based LED blinking circuit using the ATmega microcontroller. Here’s an overview of the functionality:
 
 ![Screenshot 2024-12-21 215445](https://github.com/user-attachments/assets/021e7c6f-3c69-4e7a-84a0-3eacad9daf9d)
